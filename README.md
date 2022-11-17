@@ -2,12 +2,6 @@
 
 I create a responsive navbar with toggle effect. Creates this with html css and javascript. 
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
